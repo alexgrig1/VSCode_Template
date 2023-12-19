@@ -45,5 +45,9 @@
     "postcss": "^8.4.5",
     "tailwind-styled-components": "^2.1.4",
     "tailwindcss": "^3.0.6"
-  }
+  },
+  "description": "![Template Screenshot](/public/Screenshot_Template.png?raw=true \"Screenshot-template\")",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
 }
